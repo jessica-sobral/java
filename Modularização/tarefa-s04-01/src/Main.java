@@ -3,7 +3,7 @@
 // java Main "Joao da Silva" 10.0 9.5 9.5 7.5
 // java Main "Maria dos Santos" 7.0 6.5 10.0
 
-class Main {
+public class Main {
     public static void main(String[] args) {
         String nome = args[0];
 
