@@ -1,4 +1,4 @@
-class Main {
+public class Main {
     public static void main(String[] args) {
         Aluno a1 = new Aluno(" SP654782", " Joana Silva ");
         System.out.println(a1.getProntuario() + ", " + a1.getNome() + "\n");
