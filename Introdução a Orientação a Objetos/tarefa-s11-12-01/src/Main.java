@@ -1,4 +1,4 @@
-class Main {
+public class Main {
     public static void main(String[] args) {
         System.out.println("QUADRADOS\n");
         //Criando 3 objetos (instâncias) da classe Quadrado
