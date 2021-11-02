@@ -1,4 +1,4 @@
-class Main {
+public class Main {
     public static void main(String[] args) {
         int[] vetor1 = {0, 1, 0, 9, 3, 5};
         int[] resultado1 = VetorUtil.vetorSemZeros(vetor1);
