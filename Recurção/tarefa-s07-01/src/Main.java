@@ -1,4 +1,4 @@
-class Main {
+public class Main {
     public static void main(String[] args) {
         int[] numeros = {11, 22, 33, 44, 55, 66};
 
