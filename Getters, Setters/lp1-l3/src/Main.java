@@ -1,4 +1,4 @@
-class Main {
+public class Main {
     public static void main(String[] args) {
         //1. teste cartão
         CartaoSIM cs1 = new CartaoSIM("\nTim", "nano", 988888888);
